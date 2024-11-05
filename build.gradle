@@ -24,7 +24,7 @@ repositories {
 
 dependencies {
     implementation 'net.java.dev.jna:jna:5.14.0'
-    implementation 'club.minnced:discord-rpc-release:v3.4.0'
+    implementation 'com.github.Ascynx:discord-rpc-release:v3.4.0' //merely under the com.github.Ascynx group to work with the jitpack mirror that sets it under the same group.
     implementation 'org.jetbrains:annotations:24.1.0'
 }
 
